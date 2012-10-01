@@ -6,8 +6,7 @@ import javax.swing.UIManager;
 import javax.swing.UIManager.LookAndFeelInfo;
 
 /**
- *
- * @author etienne
+ * @author Etienne Gauvin <etiennegauvin41@gmail.com>
  */
 
 public class Calculette
